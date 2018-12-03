@@ -1,0 +1,73 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 32-bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
+# File: C:\Users\Aluno\Documents\processador-master\output_files\processador.csv
+# Generated on: Mon Dec 03 15:45:39 2018
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Differential Pair
+clk,Input,PIN_G26,5,B5_N0,PIN_G26,,,,
+HEX0[6],Output,,,,PIN_K23,,,,
+HEX0[5],Output,,,,PIN_D8,,,,
+HEX0[4],Output,,,,PIN_D21,,,,
+HEX0[3],Output,,,,PIN_N18,,,,
+HEX0[2],Output,,,,PIN_K19,,,,
+HEX0[1],Output,,,,PIN_K22,,,,
+HEX0[0],Output,,,,PIN_Y22,,,,
+HEX1[6],Output,,,,PIN_H23,,,,
+HEX1[5],Output,,,,PIN_R17,,,,
+HEX1[4],Output,,,,PIN_V11,,,,
+HEX1[3],Output,,,,PIN_G24,,,,
+HEX1[2],Output,,,,PIN_J23,,,,
+HEX1[1],Output,,,,PIN_H19,,,,
+HEX1[0],Output,,,,PIN_W19,,,,
+HEX2[6],Output,,,,PIN_AE11,,,,
+HEX2[5],Output,,,,PIN_B12,,,,
+HEX2[4],Output,,,,PIN_C9,,,,
+HEX2[3],Output,,,,PIN_AE17,,,,
+HEX2[2],Output,,,,PIN_F16,,,,
+HEX2[1],Output,,,,PIN_AF20,,,,
+HEX2[0],Output,,,,PIN_AC15,,,,
+HEX3[6],Output,,,,PIN_G23,,,,
+HEX3[5],Output,,,,PIN_D9,,,,
+HEX3[4],Output,,,,PIN_AE16,,,,
+HEX3[3],Output,,,,PIN_H26,,,,
+HEX3[2],Output,,,,PIN_J24,,,,
+HEX3[1],Output,,,,PIN_K21,,,,
+HEX3[0],Output,,,,PIN_J2,,,,
+HEX4[6],Output,PIN_U9,1,B1_N0,PIN_U9,,,,
+HEX4[5],Output,PIN_U1,1,B1_N0,PIN_U1,,,,
+HEX4[4],Output,PIN_U2,1,B1_N0,PIN_U2,,,,
+HEX4[3],Output,PIN_T4,1,B1_N0,PIN_T4,,,,
+HEX4[2],Output,PIN_R7,1,B1_N0,PIN_R7,,,,
+HEX4[1],Output,PIN_R6,1,B1_N0,PIN_R6,,,,
+HEX4[0],Output,PIN_T3,1,B1_N0,PIN_T3,,,,
+HEX5[6],Output,PIN_T2,1,B1_N0,PIN_T2,,,,
+HEX5[5],Output,PIN_P6,1,B1_N0,PIN_P6,,,,
+HEX5[4],Output,PIN_P7,1,B1_N0,PIN_P7,,,,
+HEX5[3],Output,PIN_T9,1,B1_N0,PIN_T9,,,,
+HEX5[2],Output,PIN_R5,1,B1_N0,PIN_R5,,,,
+HEX5[1],Output,PIN_R4,1,B1_N0,PIN_R4,,,,
+HEX5[0],Output,PIN_R3,1,B1_N0,PIN_R3,,,,
+output[3],Output,,,,PIN_G25,,,,
+output[2],Output,,,,PIN_H24,,,,
+output[1],Output,,,,PIN_H25,,,,
+output[0],Output,,,,PIN_F26,,,,
+rst,Input,,,,PIN_P2,,,,
+start,Input,PIN_V2,1,B1_N0,PIN_V2,,,,
+~ASDO~,Input,,,,PIN_E3,,,,
+~LVDS150p/nCEO~,Output,,,,PIN_AE24,,,,
+~nCSO~,Input,,,,PIN_D3,,,,
