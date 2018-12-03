@@ -43,7 +43,7 @@ begin
 					output<=entrada1 + entrada2;
 
 				when "0100" => -- subtrai RF de ACC
-					output<=entrada2 - entrada1;
+					output<=entrada1 - entrada2;
 					
 				when "0101" => -- compara RF e ACC usando AND
 					output<=entrada2 and entrada1;
